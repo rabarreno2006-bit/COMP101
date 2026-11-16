@@ -1,1 +1,6 @@
-
+Computer Type: Microsoft Windows 11 Pro
+CPU: Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz (4.10 GHz)
+Memory: RAM 32.0 GB 
+OS: 26200.9974 
+HD: 1.81TB 
+Display Resolution: 1920x1080 180Hz
